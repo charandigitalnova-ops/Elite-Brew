@@ -1,0 +1,6 @@
+{
+  "name": "Elite Brew",
+  "description": "An elegant, sensory-driven menu, coffee ordering system, and locations viewer themed around slow living, craft coffee, tea, and pastries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
